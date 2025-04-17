@@ -30,6 +30,7 @@ public class Ex06 {
 		sc.close(); 
 		
 		//push 테스트
+		//13
 		
 		
 		
