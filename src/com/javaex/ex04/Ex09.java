@@ -17,6 +17,8 @@ public class Ex09 {
 
 		System.out.println(num);
 		*/
+		
+		
 		// ------------------------------------------
 		//위와 다른 경우임
 		int num = 1;
